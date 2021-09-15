@@ -11,5 +11,6 @@ npm run serve
 ```
 
 ### go to the server folder and run the server
-
+```
 node server.js
+```
